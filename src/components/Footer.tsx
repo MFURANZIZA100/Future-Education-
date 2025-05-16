@@ -35,11 +35,11 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-primary-400" />
-                <span className="text-gray-300">(123) 456-7890</span>
+                <span className="text-gray-300">+250 796132866</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-primary-400" />
-                <span className="text-gray-300">info@future.edu</span>
+                <span className="text-gray-300">mfuranzizahamza@gmail.com</span>
               </li>
             </ul>
           </div>
@@ -47,13 +47,13 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a href="https://www.facebook.com/MFURANZIZAHAMZA" className="text-gray-300 hover:text-white">
                 <Facebook className="h-6 w-6" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a href="https://x.com/Mfuranziza100" className="text-gray-300 hover:text-white">
                 <Twitter className="h-6 w-6" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a href="https://www.instagram.com/mfuranzizahamza/" className="text-gray-300 hover:text-white">
                 <Instagram className="h-6 w-6" />
               </a>
             </div>
